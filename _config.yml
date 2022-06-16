@@ -1,5 +1,13 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
+# Site Settings
+locale                   : "en-US"
+title                    : "SelmiLab"
+title_separator          : "-"
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "SelmiLab"
+description              : "SelmiLab website"
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-include-cache
