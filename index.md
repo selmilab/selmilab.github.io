@@ -6,7 +6,7 @@ date: 2020-04-08
 header:
   overlay_color: "#000"
   overlay_filter: "0.0"
-  overlay_image: /assets/images/sorrivoli.png
+  overlay_image: /assets/images/napoli.jpg
 
 excerpt: "
  <br>

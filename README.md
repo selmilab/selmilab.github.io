@@ -1,3 +1,3 @@
-SelmiLab
+Selmilab
 ========
-Website of the SelmiLab
+Selmilab website

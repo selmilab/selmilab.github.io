@@ -1,8 +1,55 @@
 ---
 permalink: /about/
 title: "About"
+
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.0"
+  overlay_image: /assets/images/italy_layout.png
+  show_overlay_excerpt: true
+
+excerpt: "Our company is headquartered in Rome, Italy<br>
+We are happy to collaborate with people <br>
+and organizations all over the world <br>
+on data that matters"
+
+author: Selmilab
+author_profile: true
 ---
+If you think we may help you, please, drop us an email or get in contact on LinkedIn, Twitter, GitHub, or Facebook. We share here our technology stack, the software we have been using in our projects. The list is not written in stone. We may add other tools and frameworks if we find they are better or if other tools are required for a project.
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+{: .text-center}
+# Technology Stack
+Our reference architecture follows the principles of the [reactive manifesto](https://www.reactivemanifesto.org/): a system must be responsive, resilient, elastic and message driven. A software system must be able to ingest and process data streams from different data sources as they become available. We have selected open source frameworks for message-passing, indexing and data storage. These frameworks are the building blocks of our software infrastructure. Applications are developed on top of the infrastructure to fulfill a project's requirements. Both the infrastructure and the application components are released in containers (e.g. Docker) that can be deployed on a cloud environment (e.g. AWS) or on-premises.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+### Development Process
+The software development process follows the principles of the [agile manifesto](https://agilemanifesto.org/principles.html), in particular [Scrum](https://scrumguides.org/index.html), and is based on a series of tools and practices for
+
+* Test-driven development
+* Version control system (e.g. Git)
+* Issue tracking (or ticketing system)
+* Continuous integration (e.g. Travis)
+* Documentation
+
+### Programming Languages
+We are fluent in Java and Python but not afraid to use other languages such as JavaScript, R or C/C++. The reference framework for Java is [Spring](https://spring.io/).
+
+### Big Data Frameworks
+The open source frameworks we have been using, divided by category:
+* Message Passing: Apache Kafka
+* Processing: Apache Flink, Apache Spark
+* Storage and Indexing: Apache Cassandra, Elasticsearch, Apache Solr
+
+### Machine Learning Frameworks
+Our reference framework for machine learning is scikit-learn. We use both PyTorch and TensorFlow for Deep Learning projects.
+
+### Geospatial Tools and Frameworks
+We use open source software for geospatial data.
+* SAR and optical satellite imagery: Snap Toolbox
+* Desktop GIS: QGIS
+* Spatial Databases: PostgreSQL, PostGis
+* Tile Server: MapServer, Geoserver.
+
+### Knowledge Graphs and Linked Data
+* RDF Processing Framework: Jena
+* RDF Database and SPARQL server: Virtuoso, Jena
