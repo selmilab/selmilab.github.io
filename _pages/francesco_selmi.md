@@ -1,6 +1,16 @@
 ---
 permalink: /fselmi/
 title: "Francesco Selmi"
+
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.0"
+  overlay_image: /assets/images/sorrivoli.png
+  show_overlay_excerpt: true
+
+excerpt: "
+patriotta, letterato, scienziato<br><br><br>
+"
 ---
 ![Francesco Selmi](/assets/images/francesco_selmi_laboratorio_small.jpg)
 
