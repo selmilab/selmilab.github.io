@@ -16,7 +16,7 @@ on data that matters"
 author: Selmilab
 author_profile: true
 ---
-If you think we may help you, please drop us an email or get in contact on LinkedIn, Twitter, GitHub, or Facebook. We share here our technology stack, the software we have been using in our projects. The list is not written in stone. We may add other tools and frameworks if we find they are better or if other tools are required for a project.
+If you think we may help you, drop us an email or get in contact on LinkedIn, Twitter, GitHub, or Facebook. We share here our technology stack, the software we have been using in our projects. The list is not written in stone. We may add other tools and frameworks if we find they are better or if other tools are required for a project.
 
 {: .text-center}
 # Technology Stack
