@@ -1,8 +1,10 @@
 main:
-  - title: "Posts"
-    url: /posts/
   - title: "Publications"
     url: /publications/
+  - title: "Projects"
+    url: /projects/
+  - title: "Posts"
+    url: /posts/
   - title: "Francesco Selmi"
     url: /fselmi/
   - title: "About"
