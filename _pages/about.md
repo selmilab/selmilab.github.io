@@ -18,9 +18,10 @@ author_profile: true
 ---
 Selmilab is a science and technology consultancy firm. We share here our technology stack, the software we have been using in our projects. The list is not written in stone. We may add other tools and frameworks if we find they are better or if other tools are required for a project.
 
-{: .text-center}
+
 # Technology Stack
 ![Selmilab Tech Stack](/assets/images/selmilab_tech_stack.png)
+
 Our reference architecture follows the principles of the [reactive manifesto](https://www.reactivemanifesto.org/): a system must be responsive, resilient, elastic and message driven. A software system must be able to ingest and process data streams from different data sources as they become available. We have selected open source frameworks for message-passing, indexing and data storage. These frameworks are the building blocks of our software infrastructure. Applications are developed on top of the infrastructure to fulfill a project's requirements. Both the infrastructure and the application components are released in containers (e.g. Docker) that can be deployed on a cloud environment (e.g. AWS) or on-premises.
 
 ### Development Process
