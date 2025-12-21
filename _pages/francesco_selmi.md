@@ -52,7 +52,7 @@ feature_row4:
 feature_row5:
   - image_path: /assets/images/francesco_selmi/enciclopedia_chimica_selmi.jpg
     title: "Author"
-    excerpt: "Francesco Selmi was a prolific scientific author on colloid chemistry, electrochemistry, and toxicology. He published texts on organic and inorganic chemistry and was among the founders of two scientific journals. In 1868, he edited the *Enciclopedia di Chimica Scientifica e Industriale*, consisting of eleven volumes plus three supplementary ones, the first encyclopedia of its kind published in Italy."
+    excerpt: "Francesco Selmi was a prolific scientific author on colloid chemistry, electrochemistry, and toxicology. He published textbooks on organic and inorganic chemistry and was among the founders of two scientific journals. In 1868, he edited the *Enciclopedia di Chimica Scientifica e Industriale*, consisting of eleven volumes plus three supplementary ones, the first encyclopedia of its kind published in Italy."
     #url: "#test-link"
     #btn_label: "Read More"
     #btn_class: "btn--primary"
