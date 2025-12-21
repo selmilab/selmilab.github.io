@@ -12,7 +12,7 @@ excerpt: "*\"patriotta, letterato, scienziato\"*<br/><br/><br/>"
 
 #-------------------------- intro -----------------------------------
 intro:
-  - excerpt: "Francesco Selmi (Vignola, 7 April 1817 – 13 August 1881) was an Italian chemist, patriot, inventor and entrepreneur, one of the founders of colloid chemistry. Among all his interests, he was also a researcher of Dante Alighieri’s work. We believe that nowadays he would be a great computational scientist."
+  - excerpt: "The Selmilab is named after Francesco Selmi (Vignola, 7 April 1817 – 13 August 1881) an Italian chemist, patriot, inventor and entrepreneur, one of the founders of colloid chemistry. Among all his interests, he was also a researcher of Dante Alighieri’s work. We are inspired by his life and work and we believe that nowadays he would be a great computational scientist."
 
 #-------------------------- 2nd feature row ------------------------------
 feature_row1:
