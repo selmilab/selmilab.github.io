@@ -26,7 +26,7 @@ feature_row1:
 feature_row2:
   - image_path: /assets/images/francesco_selmi/giornale_di_reggio_n5.jpg
     title: "Patriot"
-    excerpt: "Francesco Selmi participated in the 1848 uprisings against Austrian rule. That same year, he founded the Giornale di Reggio to incite the population of the Austro-Este Duchy to revolt against Austrian occupation. After the defeat of the Piedmontese army at Custoza, he fled to Turin and was later sentenced to death in absentia by Francis V of Austria-Este, Duke of Modena and Reggio. With the help of his wife Marietta, he helped many patriots flee the duchy and take refuge in Turin. In 1859, he, along with Giuseppe Verdi, was among the promoters of the accession of the province of Modena to the Kingdom of Savoy."
+    excerpt: "Francesco Selmi participated in the 1848 uprisings against Austrian rule. That same year, he founded the *Giornale di Reggio* to incite the population of the Austro-Este Duchy to revolt against Austrian occupation. After the defeat of the Piedmontese army at Custoza, he fled to Turin and was later sentenced to death in absentia by Francis V of Austria-Este, Duke of Modena and Reggio. With the help of his wife Marietta, he helped many patriots flee the duchy and take refuge in Turin. In 1859, he, along with Giuseppe Verdi, was among the promoters of the accession of the province of Modena to the Kingdom of Savoy."
         #url: "#test-link"
         #btn_label: "Read More"
         #btn_class: "btn--primary"
