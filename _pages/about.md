@@ -20,7 +20,7 @@ Selmilab is a science and technology consultancy firm. We share here our technol
 
 
 # Technology Stack
-![Selmilab Tech Stack](/assets/images/selmilab_tech_stack.png)
+<img src="/assets/images/selmilab_tech_stack.jpg" align="center" width="501" height="516">
 
 Our reference architecture follows the principles of the [reactive manifesto](https://www.reactivemanifesto.org/): a system must be responsive, resilient, elastic and message driven. A software system must be able to ingest and process data streams from different data sources as they become available. We have selected open source frameworks for message-passing, indexing and data storage. These frameworks are the building blocks of our software infrastructure. Applications are developed on top of the infrastructure to fulfill a project's requirements. Both the infrastructure and the application components are released in containers (e.g. Docker) that can be deployed on a cloud environment (e.g. AWS) or on-premises.
 
