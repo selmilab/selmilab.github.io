@@ -1,16 +1,11 @@
 ---
 layout: single
 title:  "Land Use and Land Cover Classification using a ResNet Deep Learning Architecture"
-categories: "earth_observation remote_sensing deep_learning"
+#classes: wide
+categories: Earth_Observation Remote_Sensing Deep_Learning
 permalink: /lulc-classification.html
-# classes: wide
-header:
-  image: /assets/images/splash/amazon_forest.png
-  # overlay_color: "#000"
-  # overlay_filter: "0.0"
-  # overlay_image: /assets/images/splash/amazon_forest.png
 
-toc: true
+toc: false # table of contents
 toc_label: "Table of Contents"
 author: Luigi Selmi
 ---
@@ -64,6 +59,7 @@ Now we select the pretrained architecture to be finetuned using the EuroSAT data
 ![ResNet bottleneck block](/assets/images/sentinel-2/resnet_bottleneck_building_block.png){: .align-center}
 
 Each block contains a shortcut connection from the input to the output so that it learns the difference between them, that is the residual. This architectural choise allows to avoid the degradation problem that affects other architectures with many convolutional layers. As said before, a deep architecture is required to learn many complex features from data. Another advantage of the ResNet50 architecture is that the number of parameters don't depend on the size of the images. The number of channels, also known as features maps, and their size are always the same at each layer so that the original ResNet50 parameters that have been computed using 224x224 pixels images can be updated during the finetuning process using images of a different size such as the 64x64 pixels images of the EuroSAT dataset. The final layer reduces the tensor to a one dimensional vector of size 10, the number of the classes, that is finally sent to a softmax layer that computes the probabilities of each image to be a member of any of the 10 classes used to classify the EuroSAT images. The fastai convenience function cnn_learner() is used to customize the learning process by setting different hyperparameters such as the optimizer (e.g. Stochastic Gradient Descent), the loss function, the learning rate and many others. A summary of the architecture is shown before starting the finetuning process.
+
 {% highlight text %}
 learn = cnn_learner(dls, resnet50, metrics=accuracy)
 learn.summary()
