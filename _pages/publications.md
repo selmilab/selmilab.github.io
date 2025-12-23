@@ -10,7 +10,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.0"
   overlay_image: /assets/images/marocco_desert_50.png
-
+  caption: "Photo credit: [**Luigi Selmi**](https://www.luigiselmi.eu)"
 excerpt: "We never stop learning by reading papers and textbooks<br>
 Sometimes we find the time to contribute as well<br>
 being it a paper about a project or <br>

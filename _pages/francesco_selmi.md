@@ -8,6 +8,7 @@ header:
   overlay_filter: "0.0"
   overlay_image: /assets/images/sorrivoli.png
   show_overlay_excerpt: true
+  caption: "Photo credit: [**Luigi Selmi**](https://www.luigiselmi.eu)"
 excerpt: "*\"patriotta, letterato, scienziato\"*<br/><br/><br/>"
 
 #-------------------------- intro -----------------------------------

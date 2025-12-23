@@ -8,7 +8,7 @@ permalink: /projects/
 
 header:
   overlay_image: /assets/images/aletsch_glacier_51.png
-  # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Luigi Selmi**](https://www.luigiselmi.eu)"
   show_overlay_excerpt: true
 
 excerpt: "We do not underestimate the role of open data<br>  
