@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Us"
 
 header:
   overlay_color: "#000"
@@ -13,7 +13,7 @@ We are happy to collaborate with people <br>
 and organizations all over the world <br>
 on data that matters"
 
-author: Selmilab
+author: selmilab
 author_profile: true
 ---
 Selmilab is a science and technology consultancy firm. We share here our technology stack, the software we have been using in our projects. The list is not written in stone. We may add other tools and frameworks if we find they are better or if other tools are required for a project.
