@@ -8,10 +8,10 @@ header:
   overlay_image: /assets/images/italy_layout.png
   show_overlay_excerpt: true
 
-excerpt: "Our company is headquartered in Rome, Italy<br>
-We are happy to collaborate with people <br>
-and organizations all over the world <br>
-on data that matters"
+excerpt: "Our company is headquartered in Rome, Italy.<br>
+We are happy to collaborate with people
+and organizations all over the world
+on data that matters<br><br>"
 
 author: selmilab
 author_profile: true
