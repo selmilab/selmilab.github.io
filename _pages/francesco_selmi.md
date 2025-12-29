@@ -48,7 +48,7 @@ feature_row4:
   - image_path: /assets/images/francesco_selmi/pila_francesco_selmi.png
     image_caption: "Credit: [**Münchner Digitale Bibliothek**](https://digitale-sammlungen.de/en/)"
     title: "Inventor and entrepreneur"
-    excerpt: "In 1854, he obtained a permit to extract guano in Sardinia to be used as a fertilizer. That same year, he filed two patent applications, one for a new method of producing coal gas for lighting and another for a new method of extracting rubber, sugar, alcohol, and paper fiber from herbaceous and woody plants. In 1855, invented the triple-contact pile. The advantages of the new battery were its constant voltage, its low cost compared to existing batteries, its simplicity of construction and maintenance, and the absence of harmful fumes. The battery was used continuously in the Turin telegraph station from December 1856 until May 1857, where up to 100 cells were installed."
+    excerpt: "In 1854, he obtained a permit to extract guano in Sardinia to be used as a fertilizer. That same year, he filed two patent applications, one for a new method of producing coal gas for lighting and another for a new method of extracting rubber, sugar, alcohol, and paper fiber from herbaceous and woody plants. In 1855, he invented the triple-contact pile. The advantages of the new battery were its constant voltage, its low cost compared to existing batteries, its simplicity of construction and maintenance, and the absence of harmful fumes. The battery was used continuously in the Turin telegraph station from December 1856 until May 1857, where up to 100 cells were installed."
     #url: "#test-link"
     #btn_label: "Read More"
     #btn_class: "btn--primary"
