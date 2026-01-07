@@ -93,7 +93,7 @@ Fundamental algorithms and data structures in Java ([GitHub repo](https://github
 A collection of Jupyter notebooks in R from the course Statistical Learning taught by Prof. Trevor Hastie and Prof. Robert Tibshirani ([GitHub repo](https://github.com/luigiselmi/datascience/blob/master/r/stat_learning/chapter1.ipynb){:target="_blank"})
 
 ### Cryptography
-Jupiter notebooks in Python about number theory, the Diffie-Hellman protocol and the RSA public-key encryption system ([GitHub repo](https://github.com/luigiselmi/cryptography){:target="_blank"})
+Jupiter notebooks in Python about number theory, the Diffie-Hellman protocol and the RSA public-key encryption system ([GitHub repo](https://github.com/luigiselmi/cryptography){:target="_blank"}), and the public key infrastructure ([GitHub repo](https://github.com/luigiselmi/x509))
 
 ### Recommender Systems
 A collaborative filtering recommender system based on Apache Mahout ([GitHub repo](https://github.com/luigiselmi/mahoutrecommender){:target="_blank"})
