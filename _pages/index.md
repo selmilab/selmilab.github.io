@@ -62,7 +62,7 @@ feature_row5:
 feature_row6:
   - image_path: assets/images/security.png
     title: "Information Security"
-    excerpt: "Security is a major concern. We have created resources about cryptography and Public key Infrastructure to help citizens using open source tools to keep their data private."
+    excerpt: "Security is a major concern. We have created resources about cryptography and public key infrastructure to help citizens keeping their data private and for secure and reliable communication using open source tools."
     url: "/message-encryption-and-signature.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
