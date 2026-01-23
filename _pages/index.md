@@ -9,9 +9,9 @@ header:
   overlay_image: /assets/images/napoli.jpg
   caption: "Photo credit: [**L. Selmi**](https://www.luigiselmi.eu)"
 excerpt: "
- <br>
- <br>
- <br>
+ We learn,<br>
+ We collect data,<br>
+ We make predictions.
 "
 #-------------------------- 1st feature row ------------------------------
 feature_row1:
